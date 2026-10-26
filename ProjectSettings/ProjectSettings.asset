@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: IDYGS102
+  productName: IDYGS103
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -857,14 +857,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: IDYGS102
+  metroPackageName: IDYGS103
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: IDYGS102
+  metroApplicationDescription: IDYGS103
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -938,7 +938,7 @@ PlayerSettings:
   cloudProjectId: a0f05949-35e5-4654-bbfa-944d464f821e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: IDYGS102
+  projectName: IDYGS103
   organizationId: ln192504
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
